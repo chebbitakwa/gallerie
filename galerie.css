@@ -1,0 +1,18 @@
+.slide {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.video{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  margin-top: 50px;
+
+}
+.vd{
+  margin :30px;
+  text-align: left;
+  margin-top: 50px
+}
